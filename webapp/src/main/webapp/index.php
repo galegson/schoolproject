@@ -95,7 +95,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<li class="agileits-main"><i class="fa fa-user-o" aria-hidden="true"></i><input name="name" type="text" required=""></li>
 							<li class="text">Date of Birth :  </li>
 							<li class="agileits-main"><i class="fa fa-calendar" aria-hidden="true"></i><input class="date" id="datepicker" name="Text" type="text" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'mm/dd/yyyy';}" required="" /></li>
-							<li class="text">Name of your referral  :  </li>
+							<li class="text">Referral Name :  </li>
 							<li class="agileits-main"><i class="fa fa-user-o" aria-hidden="true"></i><input name="name" type="text" required=""></li>
 							<li class="text">Gender  :  </li>
 							<li class="agileits-main"><i class="fa fa-user-o" aria-hidden="true"></i><input name="gender" type="text" required=""></li>
